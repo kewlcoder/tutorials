@@ -22,3 +22,5 @@ Deep Learning with PyTorch: A 60 Minute Blitz
 	https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 
+@kewlcoder -
+The respective ipynb notebooks are available at the above links and were not present in the original forked repo.
